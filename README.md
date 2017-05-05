@@ -1,3 +1,4 @@
 # WaveView
 自定义水波纹UI
-<img src="device-2017-03-11-214843.png" width="400"/>
+
+<video width="658" height="444" src="device-2017-05-05-120753.mp4" poster="http://www.youname.com/images/first.png" autoplay="autoplay"></video>
